@@ -4,6 +4,7 @@ Indigo
 Blue
 Green
 yellow
+In between colors ...
 orange
 red
 so colorful is the rainbow.
